@@ -15,3 +15,5 @@ Data Engineering
 ETL Pipeline Developer
 Data Modeling
 Data Analytics
+<img width="783" height="550" alt="Architecture drawio" src="https://github.com/user-attachments/assets/79f8866f-c392-4f13-9a70-ea631040e1f8" />
+
